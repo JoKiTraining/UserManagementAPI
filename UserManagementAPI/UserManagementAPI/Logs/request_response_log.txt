@@ -1,0 +1,4 @@
+[2025-10-24 15:41:46] GET /api/Users => 200 OK
+[2025-10-24 15:41:48] GET /api/Users => 200 OK
+[2025-10-24 15:41:54] GET /api/Users => 200 OK
+[2025-10-24 15:42:12] POST /api/Auth/login => 200 OK
