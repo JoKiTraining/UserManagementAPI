@@ -12,3 +12,6 @@
 - Code inludes validation of contents and to handle bad user inputs. Errors are handles with exceptions and error texts
 - Implemenation of logging, authentication with JWT-Token, counting of site calls
 
+## Version info:
+- Project created as Visual Studio Project
+- Use of .Net-Version V9.0
