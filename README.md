@@ -1,11 +1,11 @@
 # Back-End Development with .NET 
 ## Project: Building a Simple API with Copilot
-Following excercises included in this code:
+### Following excercises included in this code:
 1. Writing and Enhancing AI Code with Copilot
 2. Debugging API Code with Copilot
 3. Implementing and Mnaging Middleware with Copilot
 
-Following creteria checked:
+### Following creteria checked:
 - GitHub repository created and project included with commit
 - CRUD endpoints created
 - Debug code with copilot. Suggestions of copilot included in the code
